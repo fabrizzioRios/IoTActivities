@@ -22,10 +22,13 @@ Before we run, we nee to make a directory, then clone the repository and execute
 
     git clone 
 
-**Execute both scripts**
+**Execute and compile both scripts**
 
     gcc Server.c -o Server
     gcc Client.c -o Client
+    
+    ./Server
+    ./Client
 
 # Authors✒️
 - Jose Sebastian Chavez Navarro
