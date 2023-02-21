@@ -20,7 +20,7 @@ Before we run, we nee to make a directory, then clone the repository and execute
 
 **Clone the repository to the directory**
 
-    git clone 
+    git clone https://github.com/fabrizzioRios/IoTActivities/blob/Demon-Server
 
 **Execute and compile both scripts**
 
